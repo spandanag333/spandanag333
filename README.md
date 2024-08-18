@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @spandanag333
-- 👀 I’m a Machine Learning Enthusiast.
-- 🌱 I’m currently pursuing CS 4th year from SCSVMV university, India.
+- 👋 Hi, I’m Spandana
+- 👀 I’m a Machine Learning, and Deep Learning Enthusiast.
+- 🌱 I’m currently working as a Data Analyst.
 - 🌌 Passionate about Coding and Space.
 
 <!---
